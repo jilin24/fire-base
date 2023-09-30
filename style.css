@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  header {
+    background-color: red;
+    color: #fff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 15px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  article {
+    width: 30%;
+    padding: 10px;
+    color:plum;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  h3 {
+    margin-top: 10px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color:purple;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
